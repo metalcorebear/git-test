@@ -7,4 +7,4 @@
 i = 1
 while i == 1:
   print('Hello world.')
-  i = 1
+  i += 2
